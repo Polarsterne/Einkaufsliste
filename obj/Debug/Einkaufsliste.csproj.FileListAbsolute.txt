@@ -1,0 +1,10 @@
+C:\Users\polar\Downloads\programmieren\HalloWelt\Einkaufsliste\Einkaufsliste\bin\Debug\Einkaufsliste.exe.config
+C:\Users\polar\Downloads\programmieren\HalloWelt\Einkaufsliste\Einkaufsliste\bin\Debug\Einkaufsliste.exe
+C:\Users\polar\Downloads\programmieren\HalloWelt\Einkaufsliste\Einkaufsliste\bin\Debug\Einkaufsliste.pdb
+C:\Users\polar\Downloads\programmieren\HalloWelt\Einkaufsliste\Einkaufsliste\obj\Debug\Einkaufsliste.csproj.AssemblyReference.cache
+C:\Users\polar\Downloads\programmieren\HalloWelt\Einkaufsliste\Einkaufsliste\obj\Debug\Einkaufsliste.Form1.resources
+C:\Users\polar\Downloads\programmieren\HalloWelt\Einkaufsliste\Einkaufsliste\obj\Debug\Einkaufsliste.Properties.Resources.resources
+C:\Users\polar\Downloads\programmieren\HalloWelt\Einkaufsliste\Einkaufsliste\obj\Debug\Einkaufsliste.csproj.GenerateResource.cache
+C:\Users\polar\Downloads\programmieren\HalloWelt\Einkaufsliste\Einkaufsliste\obj\Debug\Einkaufsliste.csproj.CoreCompileInputs.cache
+C:\Users\polar\Downloads\programmieren\HalloWelt\Einkaufsliste\Einkaufsliste\obj\Debug\Einkaufsliste.exe
+C:\Users\polar\Downloads\programmieren\HalloWelt\Einkaufsliste\Einkaufsliste\obj\Debug\Einkaufsliste.pdb
